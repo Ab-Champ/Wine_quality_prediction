@@ -1,5 +1,7 @@
 # WINE QUALITY PREDICTION
 
+![home_img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40Raksha-Srinivasan%2Fred-wine-quality-prediction-using-classification-model-1e7004c26407&psig=AOvVaw3H_RNm3LhhjXc8bDvjvZop&ust=1708944453478000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKj5tqqoxoQDFQAAAAAdAAAAABAZ)
+
 ## TABLE OF CONTENTS:
   * [INTRODUCTION](#INTRODUCTION)
   * [PROJECT_PURPOSE](#PROJECT_PURPOSE)
@@ -7,8 +9,6 @@
   * [DATASET](#DATASET)
   * [SCOPE](#SCOPE)
   * [CONCLUSION](#CONCLUSION)
-
-
 
 
 ## INTRODUCTION:
